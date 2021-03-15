@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/Users/Zxuan/Git/c++basic/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -I/Users/Zxuan/Git/c++basic/include -g -std=c++11 -o CMakeFiles/PA1.dir/src/main.cpp.o -c /Users/Zxuan/Git/c++basic/src/main.cpp",
+  "file": "/Users/Zxuan/Git/c++basic/src/main.cpp"
+},
+{
+  "directory": "/Users/Zxuan/Git/c++basic/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -I/Users/Zxuan/Git/c++basic/include -g -std=c++11 -o CMakeFiles/PA1.dir/src/student.cpp.o -c /Users/Zxuan/Git/c++basic/src/student.cpp",
+  "file": "/Users/Zxuan/Git/c++basic/src/student.cpp"
+}
+]

@@ -1,0 +1,3 @@
+/Users/Zxuan/Git/c++basic/build/CMakeFiles/rebuild_cache.dir
+/Users/Zxuan/Git/c++basic/build/CMakeFiles/edit_cache.dir
+/Users/Zxuan/Git/c++basic/build/CMakeFiles/PA1.dir
